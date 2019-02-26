@@ -1,6 +1,11 @@
 Course Notes
 ============
 
+Discord:
+--------
+
+https://discord.gg/pSQQpNq
+
 Email list:
 -----------
 |	Name		|		Email			|
