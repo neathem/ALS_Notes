@@ -29,30 +29,7 @@ Email list:
 
 *If you guys want to push any notes to me, to convert over to pdf, please write them in Markdown files (.md) so that I can convert back over to pdf and share it with the rest of the class*
 
-Homework (Due DOT2):
+Homework (Due DOT3):
 --------------------
-
-- Culture of Engagement (SC01 MP3)
-- Successful Learning
-- Customs & Courtesies
-
-Questions (Due DOT 2):
-----------------------
-
-1. What do you hope to gain from this course?
-	- Networking
-	- Perspective
-	- Confidence
-	- Leadership Skills
-2. What actions will make this flight successful?
-	- Communication
-	- Time Management
-	- Unification
-	- Motivation
-	- Followership/Leadership
-	- Study Habits
-3. What behaviors will make this flight unsuccessful?
-	- Procrastination
-	- Negative Attitude(s)
-	- Individualist
-
+- Read Critical Thinking and Airmenship
+- Finish Online test (Linked in discord)
