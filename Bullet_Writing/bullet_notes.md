@@ -5,16 +5,22 @@ Accomplishment element
 ----------------------
 
 \- Your airmen did this;
+(The What?)
+(\*ed, \*ly)
 
 Impact element
 --------------
 
 ; your airmen caused this
+(The So What?)
+(\*ed)
 
 Result element
 --------------
 
 --end result of what your airman did
+(Big picture)
+(Past tense)
 
 Additional Notes
 ----------------
