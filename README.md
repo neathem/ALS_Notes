@@ -50,3 +50,11 @@ Refer to SC01 Pg 35 & Bullet writing section in toolkit
 	- two bullets of base or community involvement
 - include student identification on bottom left corner of 1206
 - due on dot 7
+
+
+
+Quarterly Award:
+----------------
+
+Award period is 1 Apr - 30 Jun 19
+NMI for No middle initials if your troop does not have any middle initials
