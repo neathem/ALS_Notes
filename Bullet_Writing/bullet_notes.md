@@ -4,7 +4,7 @@ Bullets
 Accomplishment element
 ----------------------
 
--- Your airmen did this;
+- Your airmen did this;
 
 Impact element
 --------------
