@@ -35,3 +35,18 @@ A key-word outline is mandatory(SC01H09, Attach 4) Due to instructor DOT7 for re
 On DOT 8, you will provide your instructor a final key-word outline in order of presentation
 
 Turn to SC01EI1 V2- Briefing Evaluation Instrument
+
+Bullet Writing:
+---------------
+
+Refer to SC01 Pg 35 & Bullet writing section in toolkit
+- use information from part 1 of your subordinate scenario to develop nine properly formatted bullet statement 
+	- - Action; impact--result
+	- only use approved acronyms/abbreviations in AU writing guide
+
+- Compose nine (3-part) bullet statements as outline in the categories below;
+	- five bullets for leadership and job performance in primary duty
+	- two bullets for significant self-improvement
+	- two bullets of base or community involvement
+- include student identification on bottom left corner of 1206
+- due on dot 7
