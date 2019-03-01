@@ -12,3 +12,6 @@ Homework (Due DOT6):
 --------------------
 - SCO1 MP2 (Pg. 26)
 - Ya binder for ya airman
+- Peer Assessment #1 (Labeled Midterm) must be completed in iGecko on DOT12
+- Peer assessment #2 (Labeled Final) must be completed in iGecko on DOT21
+- Peer Assessments will be delivered in person DOT13/DOT22
