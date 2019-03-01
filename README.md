@@ -10,4 +10,5 @@ https://discord.gg/pSQQpNq
 
 Homework (Due DOT6):
 --------------------
-
+- SCO1 MP2 (Pg. 26)
+- Ya binder for ya airman
