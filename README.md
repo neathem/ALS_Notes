@@ -41,7 +41,7 @@ Bullet Writing:
 
 Refer to SC01 Pg 35 & Bullet writing section in toolkit
 - use information from part 1 of your subordinate scenario to develop nine properly formatted bullet statement 
-	- - Action; impact--result
+	- \- Action; impact--result
 	- only use approved acronyms/abbreviations in AU writing guide
 
 - Compose nine (3-part) bullet statements as outline in the categories below;
