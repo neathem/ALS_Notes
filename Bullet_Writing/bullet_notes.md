@@ -16,6 +16,9 @@ Result element
 
 --end result of what your airman did
 
+Additional Notes
+----------------
+
 AF-910 (AB-TSgt) have a 143 character limit per bullet
 
 unicode for thin-space: u2009
